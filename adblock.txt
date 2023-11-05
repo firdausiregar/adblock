@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Version: 202310191820
-! Title: adblokfs
+! Title: adblock By www.firda.uz
 ! Last modified: 19 Oct 2023 18:20 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://adblock.firda.uz/
